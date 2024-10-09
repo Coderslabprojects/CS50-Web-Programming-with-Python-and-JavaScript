@@ -11,5 +11,3 @@ This repository contains my solutions for the projects from **CS50's Web Program
 
 ## 📁 Repository Contents
 - Solutions to the course's project assignments.
-
-Feel free to explore, but please remember to adhere to CS50's policies regarding academic integrity.
